@@ -6,6 +6,8 @@ brew install git
 brew install python
 brew install nvm
 brew install maven
+brew install openvpn
+
 
 # Install brew cask
 brew install --cask google-chrome
